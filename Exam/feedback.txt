@@ -1,0 +1,9 @@
+TODO:
+- use exceptions instead of prints. CI/CD will not show the test as failed if prints are used
+- remove code repetition
+- use common code as function with return/ raise
+- use settings for the constants /urls/ to follow DNRY
+- remove projectfiles from git - only selenium related code should be in the repository + webdriver
+- use SW metrics to improve he qualty of the code
+- missing Jenkins job
+- missing penetration test
